@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![FMAPV][BK4A]](https://github.com/bank4all/BK4A.html)
+[![FMAPV][BK4A]](https://github.com/FMAPV/BK4A.html)
 
 Main activity of a bank before receiving any cash or play the garantor for a transaction is to insure their own system are not compromised, corrupted or leaking
 
@@ -173,7 +173,7 @@ Contract will be published in differente language , Arabic, English, French, Ame
 Term and agreements will be checked if they are aligned with the contract proposale
 Termsheet and Marketing document will be send and a follow up of different parties will be planned on each step of signing the contract
 
-In the case of a decentralised bank like Bank4All, the follow up will be a block of procedurals Task as well as the sale own definition of running a customer ( Self producer or Trade secret )
+In the case of a decentralised bank like FMAPV, the follow up will be a block of procedurals Task as well as the sale own definition of running a customer ( Self producer or Trade secret )
 
 Saleman will insert the client details into his own Block of TradedClient Vault
 
@@ -402,7 +402,7 @@ finally you will need to install a FMAPV VM and insert your claim of running a t
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bank4all/repo_name.git
+   git clone https://github.com/FMAPV/repo_name.git
    ```
 3. Install NPM packages
    ```sh
@@ -420,7 +420,7 @@ You will need a device abble to run Open your FMAPV Role List
 
 Choose a role , once done, you will automatically been ask to receive automate to run
 
-Automate provided by Bank4all are of multitles types
+Automate provided by FMAPV are of multitles types
 
 Write once
 Write by History
@@ -441,7 +441,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-See the [open issues](https://github.com/bank4all/bank4all/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/FMAPV/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -460,7 +460,7 @@ Contributions are what make the open source community such an amazing place to l
 <!-- LICENSE -->
 ## License
 
-Distributed under the BANK4ALL License. See `LICENSE.txt` for more information.
+Distributed under the FMAPV License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -471,7 +471,7 @@ Distributed under the BANK4ALL License. See `LICENSE.txt` for more information.
 
 Your Name - [@Daniel BOUTRIN]() - daniel.boutrin@gmail.com
 
-Project Link: [https://github.com/bank4all/Bank4All](https://github.com/bank4all/Bank4All)
+Project Link: [https://github.com/FMAPV/FMAPV(https://github.com/FMAPV/FMAPV)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
